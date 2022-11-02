@@ -1,0 +1,5 @@
+export const COLOR_BG = '#FDEEDC'
+export const COLOR_LIGHT = '#FFD8A9'
+export const COLOR_MID = '#F1A661'
+export const COLOR_ACCENT = '#E38B29'
+export const COLOR_LIGHTER = 'white'
